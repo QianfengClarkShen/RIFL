@@ -1,0 +1,8 @@
+*vivado*
+.*
+!constraints*
+!external_ips*
+!Makefile*
+!scripts*
+!testbench*
+!.gitignore
